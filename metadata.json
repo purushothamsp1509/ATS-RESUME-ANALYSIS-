@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Master",
+  "description": "A professional-grade Resume ATS Checker that analyzes your PDF resume against core industry keywords to provide an instant compatibility score and optimization suggestions.",
+  "requestFramePermissions": []
+}
